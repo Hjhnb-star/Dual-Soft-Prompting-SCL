@@ -1,5 +1,4 @@
-***
-```markdown
+
 # Dual-Soft-Prompting SCL: Parameter-Efficient Malicious Content Detection in Extreme Few-Shot Scenarios
 
 > **🔒 Anonymous Repository for Double-Blind Peer Review**
@@ -93,5 +92,4 @@ Extreme few-shot subsets (8/16 samples per class) are sampled dynamically during
 *Disclaimer: This repository is intended solely for peer review. Upon acceptance, the codebase will be de-anonymized, integrated with proper citation details, and published under an open-source license.*
 ```
 
-***
 
